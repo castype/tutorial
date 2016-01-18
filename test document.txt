@@ -1,7 +1,5 @@
 Hello World!
 
-change 1
+change 1 - change to master branch
 
 branch one change
-
-new branch change
